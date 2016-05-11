@@ -1,9 +1,9 @@
 class Maxent < Formula
   desc "Utility for analytic continuation using the method of Maximum Entropy"
   homepage "https://github.com/CQMP/Maxent"
-  url "https://github.com/CQMP/Maxent/archive/v1.0-rc2.tar.gz"
-  version "1.0-rc2"
-  sha256 "dd8fd5b2e1d37017fd89114bec08574cac1a1298d5e69936c580abf8bf5cc861"
+  url "https://github.com/CQMP/Maxent/archive/v1.0-rc3.tar.gz"
+  version "1.0-rc3"
+  sha256 "c00c161c69efe95e1b255da2b42c5a90da7caf75594702cd7a66c6e8c63d1193"
   head "https://github.com/CQMP/Maxent.git"
 
   option "with-test", "Build and run shipped tests"
