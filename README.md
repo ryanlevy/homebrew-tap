@@ -1,5 +1,5 @@
 # Homebrew Tap for Maxent (OSX)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51221.svg)](http://dx.doi.org/10.5281/zenodo.51221)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163403.svg)](https://doi.org/10.5281/zenodo.163403)
 ## Install Maxent
 `brew tap ryanlevy/tap`  
 `brew install maxent` 
